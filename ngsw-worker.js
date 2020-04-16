@@ -185,17 +185,6 @@
      * Use of this source code is governed by an MIT-style license that can be
      * found in the LICENSE file at https://angular.io/license
      */
-self.addEventListener("install", event => {
-    console.log("installing...");
-    event.waitUntil(
-        caches
-            .open(cache_name)
-            .then(cache => {
-                return cache.addAll(assets);
-            })
-            .catch(err => console.log(err))
-    );
-});
     class SwCriticalError extends Error {
         constructor() {
             super(...arguments);
