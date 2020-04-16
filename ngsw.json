@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1587061422133,
+  "timestamp": 1587064376692,
   "index": "https://soumunshi.github.io/PWA_DEMO/index.html",
   "assetGroups": [
     {
@@ -42,8 +42,7 @@
     {
       "name": "jokes-api",
       "patterns": [
-        "https:\\/\\/api\\.chucknorris\\.io\\/jokes\\/random",
-        "https:\\/\\/randomuser\\.me\\/api\\/"
+        "https:\\/\\/api\\.chucknorris\\.io\\/jokes\\/random"
       ],
       "strategy": "freshness",
       "maxSize": 5,
