@@ -1,4 +1,4 @@
-{
+performance{
   "configVersion": 1,
   "timestamp": 1587024324090,
   "index": "https://soumunshi.github.io/PWA_DEMO/index.html",
@@ -45,7 +45,7 @@
         "https:\\/\\/api\\.chucknorris\\.io\\/jokes\\/random",
         "https:\\/\\/randomuser\\.me\\/api\\/"
       ],
-      "strategy": "freshness",
+      "strategy": "performance",
       "maxSize": 20,
       "maxAge": 3600000,
       "timeoutMs": 5000,
