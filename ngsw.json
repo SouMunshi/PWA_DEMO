@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1587105437729,
+  "timestamp": 1587105779333,
   "index": "https://soumunshi.github.io/PWA_DEMO/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://soumunshi.github.io/PWA_DEMO/favicon.ico",
         "https://soumunshi.github.io/PWA_DEMO/index.html",
-        "https://soumunshi.github.io/PWA_DEMO/main-es2015.d19aa575533fa945ca60.js",
-        "https://soumunshi.github.io/PWA_DEMO/main-es5.d19aa575533fa945ca60.js",
+        "https://soumunshi.github.io/PWA_DEMO/main-es2015.186a8146ab9b7ce5d2ee.js",
+        "https://soumunshi.github.io/PWA_DEMO/main-es5.186a8146ab9b7ce5d2ee.js",
         "https://soumunshi.github.io/PWA_DEMO/manifest.webmanifest",
         "https://soumunshi.github.io/PWA_DEMO/polyfills-es2015.690002c25ea8557bb4b0.js",
         "https://soumunshi.github.io/PWA_DEMO/polyfills-es5.9e286f6d9247438cbb02.js",
@@ -62,9 +62,9 @@
     "https://soumunshi.github.io/PWA_DEMO/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://soumunshi.github.io/PWA_DEMO/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://soumunshi.github.io/PWA_DEMO/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://soumunshi.github.io/PWA_DEMO/index.html": "96fb96ff1d57cb8a58c354862343ca6b492635ad",
-    "https://soumunshi.github.io/PWA_DEMO/main-es2015.d19aa575533fa945ca60.js": "0ab287526e55f9d3c4fc38bb4296dfb49f08a62c",
-    "https://soumunshi.github.io/PWA_DEMO/main-es5.d19aa575533fa945ca60.js": "e9af6717a4bc501781cafe0d771caa4d48162ee8",
+    "https://soumunshi.github.io/PWA_DEMO/index.html": "7dab18b3530ea035eb192c7fc1301f822809d736",
+    "https://soumunshi.github.io/PWA_DEMO/main-es2015.186a8146ab9b7ce5d2ee.js": "3eaf60c82a8e5d57f78ef47b898a2d0666f0f772",
+    "https://soumunshi.github.io/PWA_DEMO/main-es5.186a8146ab9b7ce5d2ee.js": "ed383285367fbfed71b2b4c30d5f975acadc3b50",
     "https://soumunshi.github.io/PWA_DEMO/manifest.webmanifest": "617e1c4962ae1d81d6c0a337eb8dc3377c40186a",
     "https://soumunshi.github.io/PWA_DEMO/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://soumunshi.github.io/PWA_DEMO/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
